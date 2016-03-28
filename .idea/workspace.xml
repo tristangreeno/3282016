@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a79a5a2-e2a1-438a-81f8-439643414627" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="3282016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -555,7 +554,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1459177639061</updated>
-      <workItem from="1459177642778" duration="13119000" />
+      <workItem from="1459177642778" duration="13168000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World commit">
       <created>1459194434662</created>
@@ -606,11 +605,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459195761026</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="t">
+      <created>1459196003083</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1459196003083</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13119000" />
+    <option name="totallyTimeSpent" value="13168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -650,7 +656,8 @@
     <MESSAGE value="Hello World commit" />
     <MESSAGE value="Hello World commit2" />
     <MESSAGE value="Hello World commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World commit3" />
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
