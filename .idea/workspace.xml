@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a79a5a2-e2a1-438a-81f8-439643414627" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/3282016/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/3282016/Team.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="3282016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -556,7 +554,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1459177639061</updated>
-      <workItem from="1459177642778" duration="12579000" />
+      <workItem from="1459177642778" duration="12726000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World commit">
       <created>1459194434662</created>
@@ -579,11 +577,25 @@
       <option name="project" value="LOCAL" />
       <updated>1459194950869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hello World commit2">
+      <created>1459194971979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1459194971979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hello World commit2">
+      <created>1459195098849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1459195098849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12579000" />
+    <option name="totallyTimeSpent" value="12726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
